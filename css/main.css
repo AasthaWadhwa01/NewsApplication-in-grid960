@@ -1,0 +1,179 @@
+h1{
+	font-family: 'Exo', sans-serif;
+	font-family: 'Shrikhand', cursive;
+	height: 25px;
+	color: black;
+	}
+
+li{
+	line-height: 60px;
+	display: inline;
+	padding: 40px;
+}
+
+ul a{
+	text-decoration: none;
+	color: white;
+}
+
+ul a:hover{
+	text-decoration: underline;
+	color: black;
+
+
+}
+
+.navigationbar{
+	background-color: dimgrey;
+	height: 60px;
+	overflow: hidden;
+}
+
+.widthset{
+	width: 1000px;
+	margin-left: 250px;
+}
+
+.widthset_bg{
+	background: #000080 ;
+}
+
+.hero{
+	background-image: url("../image/heroimg.jpg");
+	height: 60%;
+	width:1000px;
+	padding-top: 20%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.hero_text p{
+	text-align: center;
+	top: 68%;
+	left: 70%;
+	color: white;
+	padding-bottom: 10px;
+}
+
+
+
+
+.section_one{
+	margin-top: 5px;
+
+	color: blue;
+	width: 332px;
+	height: 400px;
+	float: left;
+	background: #f1dcec;
+
+}
+.section_one p{
+	color: black;
+}
+
+.section_two{
+	margin-top: 5px;
+	color: blue;
+	width: 332px;
+	height: 400px;
+	float: left;
+	background: #bfb0bf;	
+}
+.section_two p{
+	color:black;
+}
+.section_three{
+	margin-top: 5px;
+	color: blue;
+	width: 332px;
+	height: 400px;
+	float: left;
+	background: #767;
+}
+.section_three p{
+	color: black;
+}
+
+.mostwatchedpic{
+	float: left;
+	width: 30%;
+}
+
+.mostwatchedtext{
+	float: right;
+width: 70%;
+}
+
+.mostwatchedpic img{
+	height: 200px;
+	width: 200px;
+}
+
+.mostwatchedtext h3{
+	color: darkgrey;
+	font-family: helvetica;
+}
+
+.mostwatchedtext p{
+	color: black;
+	font-family: arial;
+}
+
+.mostwatchedtitle h3{
+	display: block;
+	
+	padding-top: 20px;
+}
+
+.limelightspic{
+	float: right;
+	width: 30%;
+}
+
+.limelightstext{
+float: left;
+width: 70%;
+}
+
+.limelightstext h3{
+color: darkgrey;
+font-family: helvetica;
+}
+
+.limelights img{
+	height: 200px;
+	width: 230px;
+}
+
+.limelightstext p{
+	color: black;
+	font-family: arial;
+}
+
+.limelightstitle h3{
+
+	display: block;
+	
+	padding-top: 20px;
+}
+.footer{
+	color: white;
+	background: grey;
+	font-family: cursive;
+	margin-top: 6px;
+}
+.footer a img{
+	display: inline;
+	height: 40px;
+	width:50px;
+}
+
+.newsvideo{
+	height: 30%;
+	width:50%;
+}
+
+.videoheading h1{
+	margin top: 20px;
+}
